@@ -8,4 +8,5 @@ From classical VS to direct VS
 
 </br>
 LEARNING VISUAL SERVOING  WITH DEEPFEATURES AND FITTED Q-ITERATION UC Berkeley
-</br> [paper](https://arxiv.org/pdf/1703.11000.pdf) [code](https://github.com/alexlee-gk/visual_dynamics)
+</br>
+[paper](https://arxiv.org/pdf/1703.11000.pdf) [code](https://github.com/alexlee-gk/visual_dynamics)
