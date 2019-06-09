@@ -1,4 +1,4 @@
-# Direct-Visual-servoing
+# Attempt at scene-agnostic CNN-based Visual Servoing
 Compiling notes for now
 </br>
 Read [this](https://tel.archives-ouvertes.fr/tel-01764148/document) from page 120
